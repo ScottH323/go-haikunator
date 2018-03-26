@@ -11,7 +11,7 @@ var (
 		"twilight", "dawn", "crimson", "wispy", "weathered", "blue", "billowing",
 		"broken", "cold", "damp", "falling", "frosty", "green", "long", "late", "lingering",
 		"bold", "little", "morning", "muddy", "old", "red", "rough", "still", "small",
-		"sparkling", "throbbing", "shy", "wandering", "withered", "wild", "black",
+		"sparkling", "shy", "wandering", "withered", "wild", "black",
 		"young", "holy", "solitary", "fragrant", "aged", "snowy", "proud", "floral",
 		"restless", "divine", "polished", "ancient", "purple", "lively", "nameless"}
 	NOUNS = []string{"waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
